@@ -2,7 +2,7 @@
 
 Passionate 5th semester computer scientist, full-stack web developer, and aspiring machine learning engineer. I'm captivated by the art of coding, turning lines of text into innovative projects
 
-## Hobbies
+## Hobbies and About Me
 
 - 🌐 **Web Development Journey:** Started my web development adventure in 2023, exploring the vast digital landscape and constantly pushing my boundaries.
 - 🧠 **Machine Learning Aficionado:** Fascinated by the world of machine learning and AI. Inspired by "Thinking, Fast and Slow," I trust data – it never lies, revealing truths our minds might miss.
