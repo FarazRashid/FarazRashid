@@ -5,7 +5,7 @@ Passionate 5th semester computer scientist, full-stack web developer, and aspiri
 ## Hobbies
 
 - 🌐 **Web Development Journey:** Started my web development adventure in 2023, exploring the vast digital landscape and constantly pushing my boundaries.
-- 🧠 **Machine Learning Aficionado:** Fascinated by the world of machine learning and AI. I believe in the power of data to reveal profound truths.
+- 🧠 **Machine Learning Aficionado:** Fascinated by the world of machine learning and AI. Inspired by "Thinking, Fast and Slow," I trust data – it never lies, revealing truths our minds might miss.
 - 🏋️‍♂️ **Gym Enthusiast:** Fitness enthusiast who hits the gym four times a week, finding strength and inspiration in physical challenges.
 - 📚 **Night Reader:** A bookworm at heart, I find solace in the written word, exploring diverse literary worlds.
 - ✍️ **Poet & Writer:** I express my thoughts and emotions through poetry and writings, often inspired by life's melodies and introspections.
