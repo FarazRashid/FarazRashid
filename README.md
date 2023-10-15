@@ -32,5 +32,16 @@ Passionate computer scientist, full-stack web developer, and aspiring machine le
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40">
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FarazRashid&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=FarazRashid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FarazRashid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
 
 
