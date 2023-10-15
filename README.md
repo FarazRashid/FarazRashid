@@ -1,6 +1,6 @@
 # Hello, I'm Muhammad Faraz Rashid! 👋
 
-Passionate computer scientist, full-stack web developer, and aspiring machine learning engineer. I'm captivated by the art of coding, turning lines of text into innovative projects
+Passionate 5th semester computer scientist, full-stack web developer, and aspiring machine learning engineer. I'm captivated by the art of coding, turning lines of text into innovative projects
 
 ## Hobbies
 
