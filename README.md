@@ -1,17 +1,17 @@
 # Hello, I'm Muhammad Faraz Rashid! 👋
 
-Passionate 5th semester computer scientist, full-stack web developer, and aspiring machine learning engineer. I'm captivated by the art of coding, turning lines of text into innovative projects
+Passionate 6th semester computer scientist, mobile developer, and aspiring software engineer. I'm captivated by the art of coding, turning lines of text into innovative projects
 
 ## Hobbies and About Me
 
-- 🌐 **Web Development Journey:** Started my web development adventure in 2023, exploring the vast digital landscape and constantly pushing my boundaries.
-- 🧠 **Machine Learning Aficionado:** Fascinated by the world of machine learning and AI. Inspired by "Thinking, Fast and Slow," I trust data – it never lies, revealing truths our minds might miss.
-- 🏋️‍♂️ **Gym Enthusiast:** Fitness enthusiast who hits the gym four times a week, finding strength and inspiration in physical challenges.
-- 📚 **Night Reader:** A bookworm at heart, I find solace in the written word, exploring diverse literary worlds.
-- ✍️ **Poet & Writer:** I express my thoughts and emotions through poetry and writings, often inspired by life's melodies and introspections.
-- 🎸 **Music Enthusiast:** A lover of harmonies, especially those spun by Pink Floyd, Jimi Hendrix, and similar legends.
-- 🌟 **Aspirations:** Aiming to bridge the gap between humanity and technology as a machine learning engineer, software developer, and web architect.
-- 🌍 **Global Outlook:** Enriched by living in the UK, I celebrate diversity and embrace varied perspectives to shape my worldview.
+-  **Mobile Development:** Learning the ropes of Android development this semester. Excited to create engaging mobile apps!
+-  **Machine Learning Enthusiast:** Captivated by the potential of AI and machine learning. Inspired by "Thinking, Fast and Slow," I believe data can unveil hidden truths
+-  **Gym Enthusiast:** Fitness enthusiast who hits the gym four times a week, finding strength and inspiration in physical challenges.
+-  **Voracious Reader** A bookworm at heart, I find solace in the written word, exploring diverse literary worlds.
+-  **Poet & Writer:** I express my thoughts and emotions through poetry and writings, penning my thoughts and feelings
+-  **Music Lover:** Enjoys a wide range of music, particularly classic rock legends like Pink Floyd and Jimi Hendrix.
+-  **Aspirations:** Aiming to bridge the gap between humanity and technology as a machine learning engineer, software developer, and web architect.
+-  **Global Outlook:** Enriched by living in the UK, I celebrate diversity and embrace varied perspectives to shape my worldview.
 
 # Tools
 
