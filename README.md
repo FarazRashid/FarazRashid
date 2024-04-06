@@ -32,6 +32,8 @@ Ultimately, I aspire to bridge my ideas to life, whether that's through machine 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FarazRashid&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+[![An image of @farazrashid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farazrashid)](https://holopin.io/@farazrashid)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FarazRashid&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
