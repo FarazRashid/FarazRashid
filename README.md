@@ -4,14 +4,11 @@ Passionate 6th semester computer scientist, mobile developer, and aspiring softw
 
 ## Hobbies and About Me
 
--  **Mobile Development:** Learning the ropes of Android development this semester. Excited to create engaging mobile apps!
--  **Machine Learning Enthusiast:** Captivated by the potential of AI and machine learning. Inspired by "Thinking, Fast and Slow," I believe data can unveil hidden truths
--  **Gym Enthusiast:** Fitness enthusiast who hits the gym four times a week, finding strength and inspiration in physical challenges.
--  **Voracious Reader** A bookworm at heart, I find solace in the written word, exploring diverse literary worlds.
--  **Poet & Writer:** I express my thoughts and emotions through poetry and writings, penning my thoughts and feelings
--  **Music Lover:** Enjoys a wide range of music, particularly classic rock legends like Pink Floyd and Jimi Hendrix.
--  **Aspirations:** Aiming to bridge the gap between humanity and technology as a machine learning engineer, software developer, and web architect.
--  **Global Outlook:** Enriched by living in the UK, I celebrate diversity and embrace varied perspectives to shape my worldview.
+I'm currently exploring the world of Android development, excited to build engaging mobile apps. As a machine learning enthusiast, I'm fascinated by its potential, inspired by "Thinking, Fast and Slow" to use data to uncover hidden insights.
+
+To balance things out, I hit the gym four times a week finding both physical and mental strength through those challenges. When I'm not coding or reading (I'm a bit of a bookworm!), I might be writing poetry or getting lost in the music of classic rock legends like Pink Floyd and Jimi Hendrix.
+
+Ultimately, I aspire to bridge my ideas to life, whether that's through machine learning engineering, software development, or mobile architecture and to make an impact. My experiences living in the UK have instilled a global outlook, and I value diverse perspectives that help shape my world view
 
 # Tools
 
